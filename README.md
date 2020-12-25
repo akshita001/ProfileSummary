@@ -4,8 +4,8 @@ The repository stores information on my profile, results, outcomes of my competi
 
 ## My Blogs on wordpress and medium
 
-- Blog on Festival of Lights : Diwali 2020 [Please click here](https://thinktoinnovate.wordpress.com/2020/12/15/happy-diwali-2020-festival-of-lights/)
-- Blog on COVID and Beyond [Please click here](https://thinktoinnovate.wordpress.com/2020/05/29/covid-and-beyond/)
+- Blog on Festival of Lights : Diwali 2020 ([Please click here for details](https://thinktoinnovate.wordpress.com/2020/12/15/happy-diwali-2020-festival-of-lights/))
+- Blog on COVID and Beyond ([Please click here for details](https://thinktoinnovate.wordpress.com/2020/05/29/covid-and-beyond/))
 
 
 ## My Recent Accomplishments
