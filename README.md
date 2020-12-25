@@ -2,6 +2,12 @@
 
 The repository stores information on my profile, results, outcomes of my competitions, tests etc. (Non-Exhaustive)
 
+## My Blogs on wordpress and medium
+
+- Blog on Festival of Lights : Diwali 2020 [Please click here](https://thinktoinnovate.wordpress.com/2020/12/15/happy-diwali-2020-festival-of-lights/)
+- Blog on COVID and Beyond [Please click here](https://thinktoinnovate.wordpress.com/2020/05/29/covid-and-beyond/)
+
+
 ## My Recent Accomplishments
 
 ### Class 6: Bricsmath Success (Dec-2020)
@@ -14,6 +20,4 @@ The repository stores information on my profile, results, outcomes of my competi
 
 ![Image2](/images/Image2.png)
 
-## My Blogs on wordpress and medium
 
-- Blog on Festival of Lights : Diwali 2020 [here](https://thinktoinnovate.wordpress.com/2020/12/15/happy-diwali-2020-festival-of-lights/)
