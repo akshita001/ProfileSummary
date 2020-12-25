@@ -14,3 +14,6 @@ The repository stores information on my profile, results, outcomes of my competi
 
 ![Image2](/images/Image2.png)
 
+## My Blogs on wordpress and medium
+
+- Blog on Festival of Lights : Diwali 2020 [here](https://thinktoinnovate.wordpress.com/2020/12/15/happy-diwali-2020-festival-of-lights/)
