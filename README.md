@@ -10,3 +10,7 @@ The repository stores information on my profile, results, outcomes of my competi
 - Ranked amongst 1% in India
 - Ranked amongst 3% in World
 
+![Image1](/images/Image1.png)
+
+![Image2](/images/Image2.png)
+
