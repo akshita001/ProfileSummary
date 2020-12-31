@@ -22,4 +22,6 @@ The repository stores information on my profile, results, outcomes of my competi
 
 ![Image2](/images/Image2.png)
 
+### Class 6: ASSET Level 2 Outcomes (Dec-2020)
 
+![Image3](/images/Image3.png)
