@@ -13,6 +13,10 @@ The repository stores information on my profile, results, outcomes of my competi
 
 ## My Recent Accomplishments
 
+### NSTSE (National-level Science Talent Search Examination) 2021 
+Akshita has scored 55 out of 60.
+![Image1](/images/Akshita_NSTSE_2021.png)
+
 ### Class 6: Bricsmath Success (Dec-2020)
 
 - 100% marks (80/80)
