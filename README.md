@@ -15,6 +15,15 @@ The repository stores information on my profile, results, outcomes of my competi
 
 ### NSTSE (National-level Science Talent Search Examination) 2021 
 Akshita has scored 55 out of 60.
+
+Subject    | Total Marks | Marks Scored|
+:--        |:--          |:--          |
+Math       | 25          | 24          |
+Physics    | 10          | 10          |
+Biology    | 10          | 09          |
+Chemistry  | 10          | 08          |
+Critical Thinking  | 05          | 04          |
+
 ![Image1](/images/Akshita_NSTSE_2021.png)
 
 ### Class 6: Bricsmath Success (Dec-2020)
