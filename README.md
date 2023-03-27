@@ -7,9 +7,10 @@ This repository stores information on my profile, results, outcomes of my compet
 ## 1. My Recent Academic Achievements
 
 - Consistent high performances in Mathematics, Science, English etc.
-- Participation and success in Olympiads (IMO, IEO, NSO etc.)
+- Moved from India to Australia Geography in Dec/2022 and cleared IEC with highest level 3 in all English assessments at North Sydney in Feb/2023
 - Participation and high performance in ASSET
-- Moved from India to Australia Geography in Dec/2022 and cleared IEC with highest level 3 in all English assessments
+- Participation and success in Olympiads (IMO, IEO, NSO etc.)
+
 
 ## 2. My Recent Extracurricular Activities
 
@@ -21,7 +22,7 @@ This repository stores information on my profile, results, outcomes of my compet
 ## 3. My Personal Interests, Qualities
 
 - Blog writing on Medium
-- IEC English at North Sydney in Jan/2023
+- IEC English at North Sydney in Feb/2023
 
 ### My Blogs on wordpress and medium
 
