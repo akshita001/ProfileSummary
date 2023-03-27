@@ -10,3 +10,13 @@
 
 
 
+### Taekwondo (from Deccan Taekwondo Academy, Bangalore, India)
+
+![BlackBelt Image1](https://github.com/akshita001/ProfileSummary/blob/main/images/Akshita_BlackBelt_Image1.jpeg)
+
+![BlackBelt Image2](https://github.com/akshita001/ProfileSummary/blob/main/images/Akshita_BlackBelt_Image2.jpeg)
+
+### Dance/Music
+
+
+### Chess
