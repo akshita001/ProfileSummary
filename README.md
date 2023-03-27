@@ -1,4 +1,4 @@
-# Akshita Mishra Profile
+# Profile of Akshita MISHRA (Akshita)
 
 Welcome to my pofile corner!! It gives me immense pleasure to share strategic and well-rounded approach to what I have accomplished so far with a highlight on a few of my accomplishments around academic achievements, extra-curricular activities and personal qualities. 
 
@@ -6,9 +6,22 @@ This repository stores information on my profile, results, outcomes of my compet
 
 ## 1. My Recent Academic Achievements
 
+- Consistent high performances in Mathematics, Science, English etc.
+- Participation and success in Olympiads (IMO, IEO, NSO etc.)
+- Participation and high performance in ASSET
+- Moved from India to Australia Geography in Dec/2022 and cleared IEC with highest level 3 in all English assessments
+
 ## 2. My Recent Extracurricular Activities
 
+- Taekwondo: Black Belt Certification (Test appeared and successfully cleared on 31/Oct/2022)
+- Dance/Music Certifications
+- Sports participation in Chess
+- Participation in Python programming language tests 
+
 ## 3. My Personal Interests, Qualities
+
+- Blog writing on Medium
+- IEC English at North Sydney in Jan/2023
 
 ### My Blogs on wordpress and medium
 
