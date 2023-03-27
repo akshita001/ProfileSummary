@@ -40,4 +40,10 @@ Dance - Indian Classical - 2020-2021
 
 ![Dance_IndianClassical_2020-2021](https://github.com/akshita001/ProfileSummary/blob/main/02_Extracurricular_Activities/Akshita_Dance_IndianClassical_2020-2021.png)
 
+Vocal Music - Indian Classical - 2020-2021
+
+![VocalMusic_IndianClassical_2020-2021](https://github.com/akshita001/ProfileSummary/blob/main/02_Extracurricular_Activities/Akshita_VocalMusic_IndianClassical_2020-2021.png)
+
 ### Chess
+
+![Chess U13](https://github.com/akshita001/ProfileSummary/blob/main/02_Extracurricular_Activities/Akshita_Chess_U13.png)
