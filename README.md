@@ -1,8 +1,16 @@
-# ProfileSummary
+# Akshita Mishra Profile
 
-The repository stores information on my profile, results, outcomes of my competitions, tests etc. (Non-Exhaustive)
+Welcome to my pofile corner!! It gives me immense pleasure to share strategic and well-rounded approach to what I have accomplished so far with a highlight on a few of my accomplishments around academic achievements, extra-curricular activities and personal qualities. 
 
-## My Blogs on wordpress and medium
+This repository stores information on my profile, results, outcomes of my competitions, tests etc. (Non-Exhaustive)
+
+## 1. My Recent Academic Achievements
+
+## 2. My Recent Extracurricular Activities
+
+## 3. My Personal Interests, Qualities
+
+### My Blogs on wordpress and medium
 
 - Blog on "The Summer!!.." ([Please click here for details](https://mishra-akszita.medium.com/the-summer-ce489ba5be8e))
 - Blog on "Art is a way to Relax.." ([Please click here for details](https://medium.com/@mishra.akszita/art-is-a-way-to-relax-178964c64a1c))
