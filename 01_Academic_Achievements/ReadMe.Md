@@ -6,11 +6,13 @@
 - Participation and high performance in ASSET
 - Participation and success in Olympiads (IMO, IEO, NSO etc.)
 
+### IEC English North Sydney (Feb/2023)
+
+![IEC](https://github.com/akshita001/ProfileSummary/blob/main/01_Academic_Achievements/Akshita_IEC_Feb2023.png)
+
 ### ASSET in Year7 (2021-2022)
 
 ![ASSET_Year7](https://github.com/akshita001/ProfileSummary/blob/main/01_Academic_Achievements/Akshita_ASSET_Year7.png)
 
-### IEC English North Sydney (Feb/2023)
 
-![IEC](https://github.com/akshita001/ProfileSummary/blob/main/01_Academic_Achievements/Akshita_IEC_Feb2023.png)
 
